@@ -1,5 +1,9 @@
 ### Hello there 👋
 
+I work alot with these people, you should also check their profiles out :
+- [KevOneRedOne](https://github.com/KevOneRedOne)
+- [LittleDuckSugar](https://github.com/LittleDuckSugar)
+
 <!--
 **Tadayoshi123/tadayoshi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
