@@ -5,6 +5,9 @@ I work alot with these people, you should also check their profiles out :
 - [KevOneRedOne](https://github.com/KevOneRedOne)
 - [LittleDuckSugar](https://github.com/LittleDuckSugar)
 
+Here are the languages that i use the most for coding :
+[https://github-readme-stats.vercel.app/api/top-langs/?username=tadayoshi123&layout=compact]
+
 <!--
 **Tadayoshi123/tadayoshi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
